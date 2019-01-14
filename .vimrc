@@ -13,3 +13,6 @@ filetype plugin indent on
 set hlsearch
 set showmatch
 set incsearch
+
+set undofile
+set undodir=~/.vim/undodir
